@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* External style */
+.ext{
+  background-color: bisque;
+  font-family: fantasy;
+  text-align: center;
+}
+
+
